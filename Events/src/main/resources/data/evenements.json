@@ -1,0 +1,10 @@
+[ {
+  "id" : "150c17be-7595-47b9-82e0-68996fff608c",
+  "nom" : "Another Conference",
+  "date" : "2025-05-27T12:09:30.072418643",
+  "lieu" : "Douala",
+  "capaciteMax" : 50,
+  "participantIds" : [ ],
+  "theme" : "Tech",
+  "intervenants" : [ ]
+} ]
